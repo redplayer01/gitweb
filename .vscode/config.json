@@ -8,6 +8,6 @@
   },
   "remoteBasePath": "/usr/local/hugo/my-site",
   "runCommand": ".vscode/push.bat",
-  "localCommand": "flash.cmd ota",
+  "localCommand": ".vscode/run.bat",
   "localCommand1": "build.bat atm"
 }
