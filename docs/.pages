@@ -1,0 +1,9 @@
+# awesome-pages：根导航。`...` = 根目录下其余 .md 自动进导航（按字母序）。
+# 新增子目录时：建 docs/子目录/.pages，并在此处加一行 `- 子目录名`。
+nav:
+  - 首页: index.md
+  - 指南: guide.md
+  - 示例: example.md
+  - examples
+  - articles
+  - ...

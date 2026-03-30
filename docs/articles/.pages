@@ -1,0 +1,5 @@
+# `...` = articles 下全部文章目录（子目录含 index.md）自动进导航。
+title: 目录文章
+nav:
+  - 说明: index.md
+  - ...
