@@ -1,6 +1,6 @@
 site_name: 文档站点
 site_description: 由 Markdown 自动构建的静态站点
-site_url: https://redplayer01.github.io/gitweb/
+site_url: https://fmpty.github.io/gitweb/
 
 theme:
   name: material
